@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+img{
+    width: 70%;
+    height: 900px;
+}
+
+header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+.collections{
+    margin-left: 120px;
+    margin-top:50px;
+    display: flex;
+  }
+
+  .collect{
+    height: 600px;
+    width: 500px;
+    border: 2px transparent;
+    border-radius: 8px;
+    box-shadow: 0.5px 0.5px 8px #808080;
+    margin: 20px;
+    
+  }
